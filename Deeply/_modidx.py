@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://neerajadsul.github.io',
                 'git_url': 'https://github.com/neerajadsul/Deeply',
                 'lib_path': 'Deeply'},
-  'syms': {'Deeply.core': {'Deeply.core.foo': ('core.html#foo', 'Deeply/core.py')}}}
+  'syms': { 'Deeply.core': { 'Deeply.core.CustomImageDataset': ('core.html#customimagedataset', 'Deeply/core.py'),
+                             'Deeply.core.CustomImageDataset.__getitem__': ('core.html#__getitem__', 'Deeply/core.py'),
+                             'Deeply.core.CustomImageDataset.__init__': ('core.html#__init__', 'Deeply/core.py'),
+                             'Deeply.core.CustomImageDataset.__len__': ('core.html#__len__', 'Deeply/core.py')}}}

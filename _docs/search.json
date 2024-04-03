@@ -1,0 +1,12 @@
+[
+  {
+    "objectID": "00_core.html",
+    "href": "00_core.html",
+    "title": "core",
+    "section": "",
+    "text": "CustomImageDataset\n\n CustomImageDataset (image_dir, loader=&lt;function read_image&gt;,\n                     extensions=('png', 'jpg', 'jpeg'), transform=None,\n                     target_transform=None)\n\nSubclasses DatasetFolder for custom dataset organised by labels as subfolder names. https://pytorch.org/vision/stable/generated/torchvision.datasets.DatasetFolder.html",
+    "crumbs": [
+      "core"
+    ]
+  }
+]

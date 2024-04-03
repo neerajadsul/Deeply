@@ -1,3 +1,7 @@
+# OS Generated Files
+.DS_Store
+[tT]humbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
